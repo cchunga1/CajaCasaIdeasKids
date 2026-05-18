@@ -5,3 +5,5 @@ matplotlib
 seaborn
 pygame
 python-escpos
+sys
+os
