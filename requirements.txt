@@ -1,9 +1,3 @@
 streamlit
-pandas
-numpy
-matplotlib
-seaborn
-pygame
-python-escpos
-sys
-os
+pygame==2.5.2
+python-escpos==3.1
